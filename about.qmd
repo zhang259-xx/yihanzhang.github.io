@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+This is my website! I am a current senior at Mount Holyoke College majored in Economics and Mathmatics
+
+```{r}
+1 + 1
+```
